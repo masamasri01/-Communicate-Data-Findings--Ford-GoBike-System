@@ -2,7 +2,7 @@
 
 Analysis on Kaggle:
 - https://www.kaggle.com/code/masamasri/ford-gobike-system-exploratory-analysis-by-masa?scriptVersionId=191972443
-- https://www.kaggle.com/code/masamasri/ford-gobike-system-exploratory-analysis-by-masa?scriptVersionId=191972443
+- [[https://www.kaggle.com/code/masamasri/ford-gobike-system-exploratory-analysis-by-masa?scriptVersionId=191972443](https://www.kaggle.com/code/masamasri/ford-gobike-system-explanatory-analysis-by-masa?scriptVersionId=191977192)](https://www.kaggle.com/code/masamasri/ford-gobike-system-explanatory-analysis-by-masa?scriptVersionId=191977192)
 
 Here's a GitHub README template for your Ford GoBike System Data Visualization project:
 
